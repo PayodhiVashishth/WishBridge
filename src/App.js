@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import ViewWishes from './pages/ViewWishes';
 import PostWish from './pages/PostWish';
@@ -7,7 +7,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <Router basename="/WishBridge">
+    <Router>
       <Navbar />
       <main className="container">
         <Routes>
