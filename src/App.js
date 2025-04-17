@@ -7,7 +7,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/WishBridge">
       <Navbar />
       <main className="container">
         <Routes>
