@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WishBridge/static/css/main.e6c13ad2.css",
+    "main.js": "/WishBridge/static/js/main.9b597738.js",
+    "static/js/453.cfbeec4f.chunk.js": "/WishBridge/static/js/453.cfbeec4f.chunk.js",
+    "index.html": "/WishBridge/index.html",
+    "main.e6c13ad2.css.map": "/WishBridge/static/css/main.e6c13ad2.css.map",
+    "main.9b597738.js.map": "/WishBridge/static/js/main.9b597738.js.map",
+    "453.cfbeec4f.chunk.js.map": "/WishBridge/static/js/453.cfbeec4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9b597738.js"
+  ]
+}
