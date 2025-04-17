@@ -2,7 +2,7 @@
   "name": "wishbridge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PayodhiVashishth.github.io/WishBridge",
+  "homepage": "https://merry-unicorn-6d045b.netlify.app/WishBridge",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
